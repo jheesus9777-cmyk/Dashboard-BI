@@ -1,0 +1,6 @@
+{
+  "name": "PetStock BI",
+  "description": "Plataforma ejecutiva de Business Intelligence y Analítica Directiva para PetStock: Cockpit de KPIs, Matriz BCG, Heatmap 7x24, Análisis de Cesta y Granel vs Saco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
